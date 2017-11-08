@@ -1,7 +1,5 @@
 language: c
-sudo: required
 compiler: gcc
-dist: trusty
 addons:
   apt:
     packages:
